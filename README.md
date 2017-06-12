@@ -1,3 +1,5 @@
+Original README below. This fork was created to add CMake support to the project.
+
 QtAwesome - Font Awesome support for Qt applications
 ====================================================
 
